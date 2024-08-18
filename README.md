@@ -1,6 +1,6 @@
 # React + Vite Code for Trendify Admin
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. \
 Open [https://trendify-admin.netlify.app/](https://trendify-admin.netlify.app/) to view it in your browser.
 
 ## Available Scripts
