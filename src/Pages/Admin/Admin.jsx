@@ -1,10 +1,10 @@
 import React from 'react';
 import './Admin.css';
-
+import Sidebar from '../../Components/Sidebar'
 const Admin = () => {
   return (
     <div className='admin'>
-      Admin
+      <Sidebar/>
     </div>
   )
 }
